@@ -10,8 +10,6 @@ __pycache__/
 *.sqlite3
 *.sql
 *.log
-.env
-docker/*.dockerfile
 docker/*.log
 docker/*.pid
 docker/*.sock
